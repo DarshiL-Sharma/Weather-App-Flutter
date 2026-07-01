@@ -1,7 +1,7 @@
 # 🌤️ SkyView
 
 <p align="center">
-  <img width="736" height="736" alt="3377768467898159" src="https://github.com/user-attachments/assets/bd8449e6-c249-40bc-8e00-ce8e56e91104" />
+  <img width="300" height="300" alt="3377768467898159" src="https://github.com/user-attachments/assets/bd8449e6-c249-40bc-8e00-ce8e56e91104" />
 </p>
 
 <h1 align="center">SkyView</h1>
