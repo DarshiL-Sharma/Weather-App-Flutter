@@ -114,23 +114,11 @@ git clone https://github.com/yourusername/SkyView.git
 
 # 🚀 Future Enhancements
 
-* 📍 GPS-based current location weather
 * 🕒 Hourly weather forecast
 * 📅 7-day weather forecast
 * 🌙 Dark Mode
 * ⭐ Favorite locations
 * 🔔 Weather alerts & notifications
-* 🌡️ Celsius/Fahrenheit switch
-
----
-
-# 📸 Demo
-
-> Add a GIF of the app here for a better showcase.
-
-```
-screenshots/demo.gif
-```
 
 ---
 
