@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:clima/services/weather.dart'; // FIX: replaced the two broken imports below with this single correct one
+import 'package:clima/services/weather.dart'; 
 import 'location_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-// REMOVED: import 'package:clima/services/weather.dart%20';  -> had a stray "%20" (space) breaking the path
-// REMOVED: import 'services/wea';                              -> incomplete filename + wrong relative path
+
 
 class LoadingScreen extends StatefulWidget {
   @override
